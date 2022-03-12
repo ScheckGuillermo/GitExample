@@ -16,9 +16,13 @@ int sum(int &a,int &b){
     return a + b;
 }
 
+void bueeenooo(){
+    cout << "bueeeenooo";
+}
+
 int main(){
     cout << sum(2,3);
-    cout << "que mongoooooooo"
+    cout << "que mongoooooooo";
     return 0;
 }
 
