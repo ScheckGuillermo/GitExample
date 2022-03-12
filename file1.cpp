@@ -8,12 +8,8 @@ void sayHello(){
 
 int rest(int& x,int& y){
 
-<<<<<<< HEAD
-    cout << a << " " << b;
-    return a - b;
-=======
+    cout << x << " " << y;
     return x - y;
->>>>>>> origin/main
 }
 
 int sum(int &a,int &b){
