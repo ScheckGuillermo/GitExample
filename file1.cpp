@@ -18,6 +18,6 @@ int sum(int &a,int &b){
 }
 
 int main(){
-
+    cout << sum(2,3);
     return 0;
 }
