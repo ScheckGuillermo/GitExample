@@ -6,10 +6,14 @@ void sayHello(){
 }
 
 
-int rest(int& a,int& b){
+int rest(int& x,int& y){
 
+<<<<<<< HEAD
     cout << a << " " << b;
     return a - b;
+=======
+    return x - y;
+>>>>>>> origin/main
 }
 
 int sum(int &a,int &b){
