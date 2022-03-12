@@ -8,6 +8,7 @@ void sayHello(){
 
 int rest(int& a,int& b){
 
+    cout << a << " " << b;
     return a - b;
 }
 
