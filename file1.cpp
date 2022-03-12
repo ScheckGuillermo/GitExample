@@ -5,7 +5,6 @@ void sayHello(){
     cout << "hello niggers";
 }
 
-
 int rest(int& x,int& y){
 
     cout << x << " " << y;
@@ -22,3 +21,8 @@ int main(){
     cout << "que mongoooooooo"
     return 0;
 }
+
+fklsdmfkldsmfklsmf
+f
+sdfsdsdf
+sdfsdf
