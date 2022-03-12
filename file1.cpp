@@ -6,9 +6,9 @@ void sayHello(){
 }
 
 
-int rest(int& a,int& b){
+int rest(int& x,int& y){
 
-    return a - b;
+    return x - y;
 }
 
 int sum(int &a,int &b){
